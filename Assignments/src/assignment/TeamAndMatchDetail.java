@@ -31,12 +31,7 @@ class Player1{
 	   }                                                       
 		   
 	   }
-class PlayerBo1{
-	Player1 createPlayer(String data) {
-		System.out.println();
-	}
-}
-	   
+
 class Team{
 	private String name;
 	private Player1 player;
@@ -113,7 +108,7 @@ class Match {
 public class TeamAndMatchDetail {
 
 	public static void main(String[] args) {
-		
+		System.out.println("Hiiiiiiiii");
 
 	}
 
