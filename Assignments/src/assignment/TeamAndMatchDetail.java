@@ -109,7 +109,7 @@ public class TeamAndMatchDetail {
 
 	public static void main(String[] args) {
 		System.out.println("Hiiiiiiiiiiii");
-		System.out.println("Hiiiiiiiiiiii");
+		System.out.println("Hiiiii");
 
 	}
 
