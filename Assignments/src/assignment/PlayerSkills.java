@@ -103,7 +103,7 @@ public class PlayerSkills {
 			switch(ch) {
 			case 1:pB.viewDetails(p1);
 			break;
-			case 2:System.out.println("Enter the skill:");
+			case 2:System.out.println("Enter    the skill:");
 			String sk=ip.next();
 			pB.printPlayerDetailswithSkill(p1, sk);
 			break;
